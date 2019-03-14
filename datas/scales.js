@@ -68,6 +68,6 @@ const scales = {
         name: "Locrian Scale",
         numbers: [0, 1, 3, 5, 6, 8, 10]
     },
-}
+};
 
 module.exports = scales;
